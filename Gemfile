@@ -3,7 +3,7 @@ source "http://rubygems.org"
 # Example:
 #   gem "activesupport", ">= 2.3.5"
 
-gem 'httpclient'
+gem 'httpclient', "2.8.2.2"
 gem 'json'
 
 # Add dependencies to develop your gem here.
